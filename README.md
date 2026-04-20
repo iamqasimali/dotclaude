@@ -1,4 +1,4 @@
-# claude-thins
+# dotclaude
 
 A portable `.claude` folder template that turns Claude Code into a **domain-aware AI teammate** — one that knows your stack, enforces your conventions, and catches security issues before they reach production.
 
